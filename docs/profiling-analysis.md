@@ -1,5 +1,3 @@
-Use the filename **`docs/profiling-analysis.md`**. This version is intentionally more technical than the README and documents both the successful analysis and the measurement corrections.
-
 # Profiling GPTQ INT4 LLM Inference: Diagnosing a Marlin Decode Bottleneck on NVIDIA T4
 
 ## Abstract
