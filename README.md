@@ -1,5 +1,3 @@
-Here is a concise README that matches the notebook narrative and keeps the optimization result open.
-
 # GPTQ Marlin Inference Profiling
 
 GPU profiling and bottleneck analysis of **GPTQ INT4 LLM inference** with **vLLM + Marlin**, using NVIDIA **Nsight Systems** and **Nsight Compute**.
