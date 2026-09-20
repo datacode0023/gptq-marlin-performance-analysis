@@ -1,0 +1,13 @@
+Configuration:
+VLLM_MARLIN_USE_ATOMIC_ADD=1
+
+Input: 32
+Output: 256
+Requests: 20
+Warmups: 3
+Concurrency: 1
+
+Output token throughput: 201.06 tok/s
+Mean TTFT: 27.87 ms
+Mean TPOT: 4.88 ms
+Mean ITL: 4.88 ms

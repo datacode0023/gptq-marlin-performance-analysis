@@ -1,0 +1,10 @@
+Input: 32
+Output: 256
+Requests: 20
+Warmups: 3
+Concurrency: 1
+
+Output token throughput: 212.19 tok/s
+Mean TTFT: 29.62 ms
+Mean TPOT: 4.61 ms
+Mean ITL: 4.61 ms
